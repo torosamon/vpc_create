@@ -1,1 +1,1 @@
-# vpc_create
+# VPC作成の忘備録として
